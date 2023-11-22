@@ -1,0 +1,3 @@
+Naveenkumar-0123
+MDB1
+mongodb+srv://Naveenkumar-0123:MDB1@nk123.aubpfct.mongodb.net/
